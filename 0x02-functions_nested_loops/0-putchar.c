@@ -2,7 +2,6 @@
 
 /**
 * main-print_putchar
-* is written by jimah 
 * Return:0
 */
 int main(void)
